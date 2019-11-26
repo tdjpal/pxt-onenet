@@ -1,11 +1,11 @@
 {
     "name": "onenet",
-    "version": "0.1.0",
+    "version": "0.1.5",
     "description": "Extension for ONENET iot based on kittenbot wifi module",
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "kittenwifi": "github:Kittenbot/pxt-kittenwifi#v0.1.9"
+        "kittenwifi": "github:Kittenbot/pxt-kittenwifi#v0.2.3"
     },
     "files": [
         "README.md",
