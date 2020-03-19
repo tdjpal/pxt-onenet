@@ -1,0 +1,7 @@
+{
+    "onenet.onenet_connect|block": "连接|产品ID|%prodid 设备ID|%deviceid 设备编号|%sn",
+    "onenet.onenet_apikey|block": "API|Key %key",
+    "onenet.onenet_pub|block": "发布|数据流|%topic 数据|%data",
+    "onenet.onenet_query|block": "查询 设备ID%devid 数据流%dp",
+    "onenet.onenet_query_ret|block": "查询返回"
+}

@@ -1,0 +1,18 @@
+{
+    "target": "microbit",
+    "targetVersion": "2.2.19",
+    "name": "onenet",
+    "meta": {},
+    "editor": "tsprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "_rev": null,
+    "id": "c4ab991f-b125-49b3-6e34-9530f1bdf946",
+    "recentUse": 1584524601,
+    "modificationTime": 1584524601,
+    "blobId": null,
+    "blobVersion": null,
+    "blobCurrent": false,
+    "isDeleted": false,
+    "path": "pxt-onenet"
+}
