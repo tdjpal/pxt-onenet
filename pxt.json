@@ -1,11 +1,11 @@
 {
     "name": "onenet",
     "version": "0.1.6",
-    "description": "Extension for ONENET iot based on kittenbot wifi module",
+    "description": "中国移动OneNet的扩展插件，胖叔修改之kittenblock",
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "kittenwifi": "github:Kittenbot/pxt-kittenwifi#v0.2.4"
+        "kittenwifi": "github:tdjpal/pxt-kittenwifi#v0.2.4"
     },
     "files": [
         "README.md",
